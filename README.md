@@ -9,3 +9,5 @@
 Ar545/Ar545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Check out my internship demo: https://youtu.be/0f71IFCYiqE (SWE Intern @ WeWork, Jun - Aug 2022)
