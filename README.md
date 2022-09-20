@@ -1,7 +1,7 @@
 Leo Litian Zhao
 ======
 
-#### Software engineer with keen interest in physical sciences and computer programming. 
+#### [Food] (https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc)
 ###### [ [Ar545.github.io](http://Ar545.github.io) ] . [ lz527@cornell.edu ] . [ 6077679203 ]
 
 
