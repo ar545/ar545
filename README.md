@@ -1,8 +1,8 @@
 Leo Litian Zhao
 ======
 
-#### [Food(https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc)] 
-###### [ [Ar545.github.io](http://Ar545.github.io) ] . [ lz527@cornell.edu ] . [ 6077679203 ]
+#### Incoming Software Engineer
+###### [ [Ar545.github.io](http://Ar545.github.io) ] . [ lz527@cornell.edu ] . [ 6077679203 ] . [ [Ithaca, NY](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
 
 
 Education
@@ -15,13 +15,14 @@ Education
 
 Experience
 ---------
-**Software engineering intern, WeWork Inc.** (June - Aug 2022, New York NY)
+**Software Engineering Intern, WeWork Inc.** (June - Aug 2022, New York, NY)
 
-- Architect & build [developer tools](https://youtu.be/0f71IFCYiqE) that powers feature & permission control, QA testing impersonation, & persona API tokens generator
+- Architect & build developer [tools](https://youtu.be/0f71IFCYiqE) that powers feature & permission control, QA testing impersonation, & persona API tokens generator
 - Integrate backend services and client-side cache with Apollo GraphQL, write unit & e2e tests with Jest, deploy with CircleCI & We8K
 - Design & develop TS React components to improve consumer experience on members.wework.com, serving 200,000+ active users
 - Contribute to agile developments, code reviews, engineering demos, team ideation, sprint planning and white-boarding sessions
 
+**Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Jan 2022 - Present, Ithaca, NY)
 
 Skills
 ------
@@ -45,7 +46,7 @@ Projects
 - 👋 Hi, I’m Leo Zhao@Ar545
 - 👀 I’m interested in software engineering early careers
 - </> 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [Food making](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
