@@ -11,7 +11,8 @@ Education
 **Bachelor's, College of Arts and Sciences, Cornell University** (2019-2023)
 - Magna Cum Laude Honors in Computer Science
 - Magna Cum Laude Honors in Chemistry
-- 3.92/4.0 GPA
+- Cumulative GPA: 3.92/4
+- Major GPA: 4.00/4
 
 Experience
 ---------
