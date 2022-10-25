@@ -18,7 +18,7 @@ Experience
 ---------
 **Software Engineering Intern, WeWork Inc.** (June - Aug 2022, New York, NY)
 
-- Architect & build developer [tools](https://youtu.be/0f71IFCYiqE) that powers feature & permission control, QA testing impersonation, & persona API tokens generator
+- Architect & build developer tool[s](https://youtu.be/0f71IFCYiqE) that powers feature & permission control, QA testing impersonation, & persona API tokens generator
 - Integrate backend services and client-side cache with Apollo GraphQL, write unit & e2e tests with Jest, deploy with CircleCI & We8K
 - Design & develop TS React components to improve consumer experience on members.wework.com, serving 200,000+ active users
 - Contribute to agile developments, code reviews, engineering demos, team ideation, sprint planning and white-boarding sessions
