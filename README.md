@@ -24,6 +24,10 @@ Experience
 - Contribute to agile developments, code reviews, engineering demos, team ideation, sprint planning and white-boarding sessions
 
 **Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Jan 2022 - Present, Ithaca, NY)
+- CS 2800 Discrete Structures
+- CS 3110 Data Structures and Functional Programming
+
+**Research Assistant, Cornell University College of Arts and Sciences** (Ithaca, NY)
 
 Skills
 ------
