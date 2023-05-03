@@ -16,18 +16,21 @@ Education
 
 Experience
 ---------
-**Software Engineering Intern, WeWork Inc.** (June - Aug 2022, New York, NY)
+**Software Engineering Intern, WeWork Inc [@WeConnect](https://github.com/WeConnect)** (June - Aug 2022, New York, NY)  
 
 - Architect & build developer tool[s](https://youtu.be/0f71IFCYiqE) that powers feature & permission control, QA testing impersonation, & persona API tokens generator
 - Integrate backend services and client-side cache with Apollo GraphQL, write unit & e2e tests with Jest, deploy with CircleCI & We8K
 - Design & develop TS React components to improve consumer experience on members.wework.com, serving 200,000+ active users
 - Contribute to agile developments, code reviews, engineering demos, team ideation, sprint planning and white-boarding sessions
 
-**Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Jan 2022 - Present, Ithaca, NY)
-- CS 2800 Discrete Structures
-- CS 3110 Data Structures and Functional Programming
+**Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Ithaca, NY)
+- CS 2800 Discrete Structures (2022)
+- CS 3110 Data Structures and Functional Programming (2023)
 
-**Research Assistant, Cornell University College of Arts and Sciences** (Ithaca, NY)
+**Research Assistant, Dept. of Computer Science & Dept. of Chemistry, Cornell University** (Ithaca, NY)
+- DPDK provider support on libfabric interface. (Dr. Weijia Song, Lorenzo Rosa, Prof. Birman, 2023)
+- Deterministic game physics simulations (Prof. Walker White, 2022)
+- Ring polymer molecular dynamics simulations (Prof. Nandini Ananth, 2021)
 
 Skills
 ------
