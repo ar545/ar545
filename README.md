@@ -2,7 +2,7 @@ Leo Litian Zhao
 ======
 
 #### Software Engineer [@FactSet](https://github.com/FactSet) | CS/Chem Magna [@Cornell](https://github.coecis.cornell.edu/)
-###### [ [Personal Website](http://ar545.github.io) ] . [ [Email](lz527@cornell.edu) ] . [ [Phone](6077679203) ] . [ [Bellveue, WA](https://en.wikipedia.org/wiki/Bellevue,_Washington) <- [Ithaca, NY](https://en.wikipedia.org/wiki/Ithaca,_New_York) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ] . [ [Food](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
+###### [ [Personal Website](http://ar545.github.io) ] . [ [Email](lz527@cornell.edu) ] . [ [Phone]() ] . [ [Bellveue, WA](https://en.wikipedia.org/wiki/Bellevue,_Washington) <- [Ithaca, NY](https://en.wikipedia.org/wiki/Ithaca,_New_York) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ] . [ [Food](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
 
 
 Education
