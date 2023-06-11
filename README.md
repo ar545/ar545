@@ -1,21 +1,25 @@
 Leo Litian Zhao
 ======
 
-#### Incoming Software Engineer
+#### Incoming Software Engineer @ FactSet | CS/Chem Magna @ Cornell
 ###### [ [Ar545.github.io](http://Ar545.github.io) ] . [ lz527@cornell.edu ] . [ 6077679203 ] . [ [Bellveue, WA <- Ithaca, NY](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ]
 
 
 Education
 ---------
 
-**Bachelor's, College of Arts and Sciences, Cornell University** (2019-2023)
+**Bachelor of Arts, Cornell University** (Aug 2019 - May 2023, Ithaca, NY)
 - Magna Cum Laude Honors in Computer Science
 - Magna Cum Laude Honors in Chemistry
-- Cumulative GPA: 3.92/4
-- Major GPA: 4.00/4
+- GPA: 4.0/4
+- CS Major GPA: 4.050/4 
 
 Experience
 ---------
+**Software Engineer, FactSet Research Systems [@FactSet](https://github.com/FactSet)** (Present, June 2023, New York, NY)
+
+- FactSet Cloud, Platform Infrastructure Engineering (PIE) Business Group
+
 **Software Engineering Intern, WeWork Inc [@WeConnect](https://github.com/WeConnect)** (June - Aug 2022, New York, NY)  
 
 - Architect & build developer tool[s](https://youtu.be/0f71IFCYiqE) that powers feature & permission control, QA testing impersonation, & persona API tokens generator
@@ -26,6 +30,7 @@ Experience
 **Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Ithaca, NY)
 - CS 2800 Discrete Structures (2022)
 - CS 3110 Data Structures and Functional Programming (2023)
+- CS 4410 Operating System (Accepted)
 
 **Research Assistant, Dept. of Computer Science & Dept. of Chemistry, Cornell University** (Ithaca, NY)
 - DPDK provider support on libfabric interface. (Dr. Weijia Song, Lorenzo Rosa, Prof. Birman, 2023)
