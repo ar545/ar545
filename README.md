@@ -27,14 +27,14 @@ Experience
 - Contribute to agile developments, code reviews, engineering demos, team ideation, sprint planning and white-boarding sessions
 
 **Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Ithaca, NY)
-- CS 2800 Discrete Structures (2022)
-- CS 3110 Data Structures and Functional Programming (2023)
-- CS 4410 Operating System (Accepted)
+- CS 2800 Discrete Structures 
+- CS 3110 Data Structures and Functional Programming 
+- CS 4410 Operating System 
 
 **Research Assistant, Dept. of Computer Science & Dept. of Chemistry, Cornell University** (Ithaca, NY)
-- DPDK provider support on libfabric interface. (Dr. Weijia Song, Lorenzo Rosa, Prof. Birman, 2023)
-- Deterministic game physics simulations (Prof. Walker White, 2022)
-- Ring polymer molecular dynamics simulations (Prof. Nandini Ananth, 2021)
+- DPDK provider support on libfabric interface (2023)
+- Deterministic game physics simulations (2022)
+- Ring polymer molecular dynamics simulations (2021)
 
 Skills
 ------
