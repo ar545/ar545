@@ -1,40 +1,32 @@
 Leo Litian Zhao
 ======
 
-#### Software Engineer [@FactSet](https://github.com/FactSet) | CS/Chem Magna [@Cornell](https://github.coecis.cornell.edu/)
-###### [ [Personal Website](http://ar545.github.io) ] . [ [Email](zhaolitianleo@gmail.com) ] . [ [Phone](javascript:void(0)) ] . [ [Location](https://en.wikipedia.org/wiki/Bellevue,_Washington) ] . [ [Linkedin](https://www.linkedin.com/in/leo-litian-zhao/) ] . [ [Food](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
+#### Software Engineer [@FactSet](https://github.com/FactSet) 
+###### [ [Personal Website](http://ar545.github.io) ] . [ [Email](zhaolitianleo@gmail.com) ] . [ [Phone](javascript:void(0)) ] . [ [Linkedin](https://www.linkedin.com/in/leo-z/) ] . [ [Food](https://www.notion.so/ar545/Foddie-bf2918a26e7747a4ae413e8c58dfadcc) ]
 
 
 Education
 ---------
 
-**Bachelor of Arts, Cornell University** (Aug 2019 - May 2023, Ithaca, NY)
-- Magna Cum Laude Honors in Computer Science
-- Magna Cum Laude Honors in Chemistry
-- GPA: 4.0/4
+**Bachelors, Cornell University** (2019-2023, Ithaca NY)
 
 Experience
 ---------
-**Software Engineer, FactSet Research Systems [@FactSet](https://github.com/FactSet)** (Present, June 2023, New York, NY)
+**Software Engineer I -> II, FactSet Research Systems [@FactSet](https://github.com/FactSet)** (2023 - Present, Remote)
 
-- FactSet Cloud, Platform Infrastructure Engineering (PIE) Business Group
+- Platform Infrastructure Engineering (PIE) Group
 
-**Software Engineering Intern, WeWork Inc [@WeConnect](https://github.com/WeConnect)** (June - Aug 2022, New York, NY)  
+**Software Engineering Intern, WeWork Inc [@WeConnect](https://github.com/WeConnect)** (2022, New York, NY)  
 
-- Architect & build developer tools[ ](https://youtu.be/0f71IFCYiqE)that powers feature & permission control, QA testing impersonation, & persona API tokens generator
-- Integrate backend services and client-side cache with Apollo GraphQL, write unit & e2e tests with Jest, deploy with CircleCI & We8K
-- Design & develop TS React components to improve consumer experience on members.wework.com, serving 200,000+ active users
-- Contribute to agile developments, code reviews, engineering demos, team ideation, sprint planning and white-boarding sessions
+- Member Web Team
 
-**Teaching Assistant, Cornell Bowers College of Computing and Information Science** (Ithaca, NY)
-- CS 2800 Discrete Structures 
-- CS 3110 Data Structures and Functional Programming 
-- CS 4410 Operating System 
+**Teaching Assistant, Cornell Bowers College of Computing and Information Science** (2021 - 2023, Ithaca, NY)
+- CS 2800, CS 3110, CS 4410
 
-**Research Assistant, Dept. of Computer Science & Dept. of Chemistry, Cornell University** (Ithaca, NY)
-- DPDK provider support on libfabric interface (2023)
-- Deterministic game physics simulations (2022)
-- Ring polymer molecular dynamics simulations (2021)
+**Research Assistant, Dept. of Computer Science & Dept. of Chemistry, Cornell University** (2021 - 2023, Ithaca, NY)
+- DPDK provider support on libfabric interface 
+- Deterministic game physics simulations 
+- Ring polymer molecular dynamics simulations 
 
 Skills
 ------
