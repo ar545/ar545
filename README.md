@@ -1,4 +1,4 @@
-Leo Litian Zhao
+Leo Zhao
 ======
 
 #### Software Engineer [@FactSet](https://github.com/FactSet) 
@@ -8,22 +8,20 @@ Leo Litian Zhao
 Education
 ---------
 
-**Bachelors, Cornell University** (2019-2023, Ithaca NY)
+**Bachelors, Cornell University** (2019 - 2023, Ithaca NY)
 
 Experience
 ---------
 **Software Engineer I -> II, FactSet Research Systems [@FactSet](https://github.com/FactSet)** (2023 - Present, Remote)
-
 - Platform Infrastructure Engineering (PIE) Group
 
 **Software Engineering Intern, WeWork Inc [@WeConnect](https://github.com/WeConnect)** (2022, New York, NY)  
-
 - Member Web Team
 
 **Teaching Assistant, Cornell Bowers College of Computing and Information Science** (2021 - 2023, Ithaca, NY)
 - CS 2800, CS 3110, CS 4410
 
-**Research Assistant, Dept. of Computer Science & Dept. of Chemistry, Cornell University** (2021 - 2023, Ithaca, NY)
+**Research Assistant, Cornell University** (2021 - 2023, Ithaca, NY)
 - DPDK provider support on libfabric interface 
 - Deterministic game physics simulations 
 - Ring polymer molecular dynamics simulations 
